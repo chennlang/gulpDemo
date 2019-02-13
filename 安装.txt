@@ -1,0 +1,6 @@
+1.npm init       -----------生成package.json
+2.npm install gulp --save-dev         --------生成node_modules安装目录（安装并生成记录  --save-dev）
+（这里注意系统gulp版本必须和package.json的版本一致，gulp -v查看系统版本）
+        css插件：将现代css语法转换成兼容语法 postcss，autoprefixer，cssnext ，precss,gulp-less(打包less)
+        npm install gulp-less postcss autoprefixer cssnext precss --save-dev
+3.创建gulpfile.js

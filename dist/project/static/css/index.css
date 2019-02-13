@@ -1,0 +1,40 @@
+/*首页*/
+
+.index-page .red {
+  color: red;
+}
+
+.index-page .aaa {
+  display: flex;
+  align-items: center;
+}
+
+.index-page .aaa .bbb {
+  box-sizing: border-box;
+}
+
+.index-page .ccc {
+  width: 100% -0.666667rem;
+  box-shadow: 0.133333rem 0.133333rem 0.066667rem #888888;
+  border-radius: 0.066667rem;
+  color: red;
+  font-size: 0.213333rem;
+  background: url('../static/images/aaa.png');
+}
+
+.index-page .fff {
+  color: red;
+}
+
+.index-page .ggg {
+  color: blue;
+}
+
+.index-page .lll {
+  color: #fff;
+}
+
+.ddd {
+  height: 1.333333rem;
+  line-height: 1.333333rem;
+}

@@ -1,0 +1,10 @@
+/*订单页*/
+
+.order {
+  dispaly: flex;
+  color: bule;
+}
+
+.order .__hd {
+  width: 100%;
+}
