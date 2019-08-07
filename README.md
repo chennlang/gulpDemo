@@ -8,5 +8,5 @@
 * less 处理成css
 * 启用服务器，更改后自动从新打包，浏览器自动刷新
 ##二、使用
-1.控制台输入： gulp
-2.浏览器打开http://localhost:3333/dist/project/pages/index.html（这里的index.html为开发页面）
+1. 控制台输入： gulp
+2. 浏览器打开http://localhost:3333/dist/project/pages/index.html（这里的index.html为开发页面）
